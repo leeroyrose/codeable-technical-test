@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "CartFees\\": "CartFees/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
+}
